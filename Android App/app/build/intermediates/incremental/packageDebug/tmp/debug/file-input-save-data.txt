@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Apr 08 13:41:14 IST 2022
+0.baseType=DIRECTORY
+0.base=D\:\\project-19_20\\charan\\New_Projects\\NFC_QR_shop\\QR_NFC_Shop_new_app\\NFC_and_QR_shop\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

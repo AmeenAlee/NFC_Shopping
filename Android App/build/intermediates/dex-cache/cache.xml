@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3a48312b938cd9fadff85ae9ba4ac865194d9b93.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_06be1d26872ada74b520409c2fe2ead312318e69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Techtrix_New\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1_a3dbd25d883a37bb1bcf93529eeffab1a6c0b398.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f65723ef89ce4ea341505a9bba19d8e36ca3429e.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9fdac18cafe1fa9975730b0d7c897d25179c6688.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_16d65455cf92d58b856f8693e63ada600dd4ffaf.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.3_beb10e977225f26e6f18bb4b238fb0fcdf233c98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Techtrix_New\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_13c021ff3c395382f72be43708c578b8c0ed1f40.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e90c77c07902ab1da7c089d2c9bbf7fc51340a85.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a9938f1e39923a8fd157ea31aed47d059b019785.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_40b78166d6668bc07fb066161171afa10692af30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Techtrix_New\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\core-3.2.1_eff75543043a62fd05b069f6d3559617e1cf26ff.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_29f385c7d77075a06655ff123809514d31939349.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b029fd99ca2becde610d46614dfd970f97da76b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Techtrix_New\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.2.1\8de3aafecbdf98a61db6427f008f2d515bcd2544\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_66c340a9cbad89448c1aeae7d6422111e76bc755.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_9cb340fd55984878dfa742e5d1e3cee583fd7d37.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b11aee61dfe34055f2952dab872f71739b345b0a.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ab696547064eaf152d0e4671688465a20a4bca5e.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.4.0_52e705045e5e1b11245d9ee7244862237c90f45c.jar" />
+    </item>
+    <item
+        jar="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\project18-19\suraj Dotnet\QR_NFC_Shop_new\NFC_and_QR_shop\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_72f81cc86ea6f5af23a067c7dc74a9e8c215e19d.jar" />
+    </item>
+
+</items>

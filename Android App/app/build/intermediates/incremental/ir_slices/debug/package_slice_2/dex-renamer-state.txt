@@ -1,0 +1,4 @@
+#Tue Apr 13 10:40:38 IST 2021
+base.0=D\:\\project-19_20\\charan\\New_Projects\\NFC_QR_shop\\QR_NFC_Shop_new_app\\NFC_and_QR_shop\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
