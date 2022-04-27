@@ -1,0 +1,48 @@
+D:\Manoj\WEB SERVICES\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SERVICES\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SERVICES\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SERVICES\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SERVICES\NFC_Shopping_With_Wallet_Service\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SERVICES\NFC_Shopping_With_Wallet_Service\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SERVICES\NFC_Shopping_With_Wallet_Service\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SERVICES\NFC_Shopping_With_Wallet_Service\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Mukesh\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Mukesh\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Mukesh\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Mukesh\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Xaviers\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Xaviers\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Xaviers\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Xaviers\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Atharva\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Atharva\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Atharva\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\Atharva\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\PATKAR\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\PATKAR\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\PATKAR\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\Manoj\WEB SITES\NFC_Shopping_With Wallete\PATKAR\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll.config
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.dll
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\bin\NFC_Shopping_Service.pdb
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.csprojResolveAssemblyReference.cache
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+E:\Project_data\Yuvraj\Projects_\NFC Shopping\with Balance\NFC_Shopping_Service\NFC_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\bin\NFC_Shopping_Service.dll.config
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.csprojResolveAssemblyReference.cache
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\project18-19\suraj Dotnet\NFC_QR_shop\NFC_QR_shoping_service\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.dll.config
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.csprojResolveAssemblyReference.cache
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\swapnil\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.dll.config
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.dll
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\bin\NFC_Shopping_Service.pdb
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.csprojResolveAssemblyReference.cache
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.dll
+D:\charan\NFC_and_QR_shop\N_Shopping_Service\obj\Debug\NFC_Shopping_Service.pdb
